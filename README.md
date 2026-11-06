@@ -1,4 +1,4 @@
-# 🌤️ SkyCast Weather App (लाइव मौसम ऐप)
+# 🌤️ SkyCast Weather App 
 
 Ek modern, responsive aur feature-rich Weather Application jo **Open-Meteo API** (Free, No API key required) ka upayog karti hai.
 
@@ -8,7 +8,7 @@ Is project me **dono options** uplabdh hain:
 
 ---
 
-## ✨ Features (Suvidhayein)
+## ✨ Features
 
 - 🔍 **Live Search Autocomplete**: Sheher ka naam type karte hi instant suggestions dikhte hain.
 - 📍 **GPS / My Location**: Ek click me aapka current location detect karke wahan ka mausam batata hai.
@@ -28,7 +28,7 @@ Is project me **dono options** uplabdh hain:
 
 ---
 
-## 🚀 Kaise Chalayein (How to Run)
+## 🚀  How to Run
 
 ### Option 1: Web App (Browser me chalayein - Recommended)
 
